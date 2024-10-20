@@ -22,7 +22,7 @@ def get_response(input,image):
 #Initialize a Streamlit App
 
 st.set_page_config(page_title="Book Vision", page_icon="📚")
-st.title("Book Vision 📚")
+st.title("Raghul Vision 📚 ")
 st.markdown("BookVision is a cutting-edge application designed to generate detailed summaries  of books from images  using advanced AI technology. Leveraging the power of the Google Gemini Vision Pro model, BookVision transforms images of book pages into concise and informative summaries, making it easier for users to grasp the essence of a book quickly.")
 "[![Open in GitHub](https://github.com/codespaces/badge.svg)](https://github.com/Raghul-M/Bookvision/)"
 
